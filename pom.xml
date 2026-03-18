@@ -4,7 +4,7 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
 
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
@@ -86,5 +86,10 @@
       </plugins>
     </pluginManagement>
   </build>
-
+            	<scm>
+		<connection>scm:git:ssh://git@github.com:lcharlois-neotys/maven-playground.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:lcharlois-neotys/maven-playground.git</developerConnection>
+		<url>https://github.com/lcharlois-neotys/maven-playground.git</url>
+		<tag>HEAD</tag>
+	</scm>
 </project>
