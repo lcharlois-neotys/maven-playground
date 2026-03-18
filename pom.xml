@@ -87,8 +87,8 @@
     </pluginManagement>
   </build>
             	<scm>
-		<connection>scm:git:ssh://git@github.com:lcharlois-neotys/maven-playground.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:lcharlois-neotys/maven-playground.git</developerConnection>
+		<connection>scm:git:ssh://git@github.com/lcharlois-neotys/maven-playground.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/lcharlois-neotys/maven-playground.git</developerConnection>
 		<url>https://github.com/lcharlois-neotys/maven-playground.git</url>
 		<tag>my-app-1.0.0</tag>
 	</scm>
